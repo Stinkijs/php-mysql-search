@@ -8,7 +8,6 @@ if(isset($_GET['pseudo']) AND !empty($_GET['pseudo'])) {
 ?>
 <html>
   <head>
-    <title>Index</title>
   </head>
   <body>
       <form action="" method="GET" class="form-example">
